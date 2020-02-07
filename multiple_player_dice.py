@@ -1,4 +1,4 @@
-# A DICE GAME THAT YOU CAN ADD ANY NUMBER OF PLAYERS
+# A DICE GAME THAT YOU CAN ADD ANY NUMBER OF PLAYERS By Anthony Nwobodo
 
 from random import randint
 from time import sleep
